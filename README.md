@@ -1,2 +1,2 @@
-# aplikasi-sederhana-perpustakan-buku
-Aplikasi Sederhana Perpustakaan Menggunakan Reactjs
+# Aplikasi Perpustakaan Buku Sederhana
+Dibuat dengan menggunakan framework reactjs
